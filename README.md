@@ -1,4 +1,4 @@
-![Salut](http://i.imgur.com/F75l74K.gif)
+![Salut](https://i.imgur.com/F75l74K.gif)
 
 [🇺🇸 Read in english](https://github.com/LEMIBANDDEXARI/LEMIBANDDEXARI/blob/main/READMEus.md) | J'aide des projets sur internet en écoutant [Spotify](https://www.spotify.com) 💛 si je ne suis pas en pleine game
 # Projets auxquels je participe de près ou de loin
