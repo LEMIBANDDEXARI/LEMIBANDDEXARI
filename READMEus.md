@@ -12,7 +12,7 @@
 * [To help Google](https://crowdsource.google.com)
 ---
 ## Paid work
-I am an independent developer for different projects, I do not accept any assignment or donation, please do not contact me for that. If you want to support the project I'm helping give your donation to this project instead, thank you.
+I am an independent developer for different projects. If you want to support the project I'm helping give your donation to this project instead, thank you.
 
 # To contact me
 - [Discord](https://discord.com) LEMIBANDDEXARI#3201
