@@ -12,7 +12,7 @@
 * [Pour aider Google](https://crowdsource.google.com)
 ---
 ## Travail rémunéré
-Je suis développeur indépendant pour différents projets, je n'accepte aucune mission ni aucun don, merci de ne pas me contacter pour cela. Si vous voulez soutenir le projet auquel j'aide donnez plutôt votre don à ce projet, merci.
+Je suis développeur indépendant pour différents projets. Si vous voulez soutenir le projet auquel j'aide donnez plutôt votre don à ce projet, merci.
 
 # Pour me contacter
 - [Discord](https://discord.com) LEMIBANDDEXARI#3201
